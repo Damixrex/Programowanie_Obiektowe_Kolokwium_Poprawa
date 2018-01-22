@@ -1,0 +1,6 @@
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\bin\Debug\141293.exe.config
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\bin\Debug\141293.exe
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\bin\Debug\141293.pdb
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\obj\Debug\141293.csprojResolveAssemblyReference.cache
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\obj\Debug\141293.exe
+D:\GLAD_OS\KolokwiumPO_Poprawa\141293\141293\obj\Debug\141293.pdb
